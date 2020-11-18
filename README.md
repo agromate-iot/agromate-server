@@ -1,7 +1,7 @@
 # agromate-server
 Server component for agromate-iot
 
-# To Install agromatic-server
+# To Install agromate-server
 1. Install Oracle Virtual Box. I used 6.1.16, but you can probably get away with the latest: https://www.oracle.com/virtualization/technologies/vm/downloads/virtualbox-downloads.html
 1. Create a new local directory.  E.g., C:\agromate-server
 1. Download an ISO image of a LTS version of Ubuntu Server.  I used Ubuntu Server 20.04.1 LTS, but you can probably get away with the latest: https://ubuntu.com/download/server
