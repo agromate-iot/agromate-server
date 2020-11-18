@@ -25,6 +25,10 @@ Server component for agromate-iot
    1. Your server's name: agromate-server
    1. Pick a username: agromate-server
    1. Choose a password: agromate-server - we take a low security over high convenience stance on this project...feel free to create your own password
-   1. Enable Install OpenSSH Server
+   1. Enable 'Install OpenSSH Server' if you know what this is and want SSH access
    1. Install nothing else and just select 'Done' until it starts installing
    1. Reboot when done
+1. You should now be able to log in with the user you created above
+   1. git clone https://github.com/agromate-iot/agromate-server
+   1. ./agromate-server/scripts/installDocker.sh
+   1. TODO - finish
